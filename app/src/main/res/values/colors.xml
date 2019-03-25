@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="teallight">#B2DFDB</color>
+    <color name="teal">#009688</color>
+    <color name="tealdark">#00897B</color>
+    <color name="red">#F44336</color>
+    <color name="redlight">#EF9A9A</color>
+    <color name="reddark">#E53935</color>
+    <color name="purplelight">#B39DDB</color>
+    <color name="purple">#673AB7</color>
+    <color name="purpledark">#5E35B1</color>
+    <color name="green">#4CAF50</color>
+    <color name="greenlight">#A5D6A7</color>
+    <color name="greendark">#43A047</color>
+
+</resources>
